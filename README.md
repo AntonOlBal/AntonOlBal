@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AntonOlBal
-- 👀 I’m interested in ...studies
-- 🌱 I’m currently learning ... work in github
+- 👀 I’m interested in ...studies and work hard!
 - 📫 How to reach me ... @anton_balabkin Telegram
 
 <!---
